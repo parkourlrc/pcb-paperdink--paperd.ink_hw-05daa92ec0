@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/rgujju/Documents/paperd.ink/paperdink_new/Electronics/rev4/paperd_ink_rev4.kicad_sch</source>
-    <date>Mon 18 Jul 2022 09:41:19 PM CDT</date>
+    <date>Mon 01 Aug 2022 11:16:08 PM CDT</date>
     <tool>Eeschema (6.0.2)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1488,17 +1488,17 @@
       <tstamps>00000000-0000-0000-0000-00005d712cb6</tstamps>
     </comp>
     <comp ref="U5">
-      <value>PCF8574APWR</value>
-      <footprint>Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm</footprint>
+      <value>PCF8574</value>
+      <footprint>021Labs-hw:PCF8574ADGVR</footprint>
       <fields>
-        <field name="LCSC">C57790</field>
-        <field name="MPN">PCF8574TS/3,118</field>
-        <field name="Manufacturer">NXP Semicon</field>
+        <field name="LCSC"> C1880148</field>
+        <field name="MPN">PCF8574ADGVR</field>
+        <field name="Manufacturer">TI or NXP Semicon</field>
       </fields>
       <libsource lib="021_labs" part="PCF8574APWR" description=""/>
-      <property name="LCSC" value="C57790"/>
-      <property name="MPN" value="PCF8574TS/3,118"/>
-      <property name="Manufacturer" value="NXP Semicon"/>
+      <property name="LCSC" value=" C1880148"/>
+      <property name="MPN" value="PCF8574ADGVR"/>
+      <property name="Manufacturer" value="TI or NXP Semicon"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="paperd_ink_rev4.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
